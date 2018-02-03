@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCamera</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_takePicture">Take picture</string>
+    <string name="alert_perm_req_msg">Allow camera access permission?</string>
+    <string name="btn_allow">Allow</string>
+    <string name="btn_deny">Deny</string>
+</resources>

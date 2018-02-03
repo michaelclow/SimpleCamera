@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleCamera</string>
+    <string name="btn_takePicture">拍照</string>
+    <string name="alert_perm_req_msg">允許存取相機功能？</string>
+    <string name="btn_allow">允許</string>
+    <string name="btn_deny">拒絕</string>
+</resources>
